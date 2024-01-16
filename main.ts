@@ -1,4 +1,4 @@
 basic.showIcon(IconNames.Yes)
 basic.forever(function () {
-    basic.showNumber(5)
+    basic.showNumber(1)
 })
